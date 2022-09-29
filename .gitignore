@@ -1,0 +1,5 @@
+deps/
+npm/
+gen/
+registries/
+.DS_Store
